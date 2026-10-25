@@ -32,3 +32,4 @@ jobs:
       with:
         name: glass-tv-debug-apk
         path: launcher/app/build/outputs/apk/debug/*.apk
+
